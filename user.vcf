@@ -9,6 +9,6 @@ EMAIL;type=INTERNET;type=WORK;type=pref:mir.kashif@bahwanit.com
 TEL;type=WORK;type=VOICE:+968 93624301
 item1.ADR;type=WORK;type=pref:;;P.O. Box: 169, P.C. 100, Muscat, Sultanate of Oman
 item1.X-ABADR:sg
-item2.URL;type=pref:bahwanit.com
+item2.URL;type=pref:www.bahwanit.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
